@@ -73,4 +73,6 @@ public class Controller2 extends JFrame
         
     } // actionPerformed
     
+
 } // class Controller2
+
